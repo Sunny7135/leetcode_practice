@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |
