@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
 |  |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sunny7135/leetcode_practice/tree/master/0134-gas-station) |
+## String
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
