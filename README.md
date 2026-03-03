@@ -4,95 +4,104 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sunny7135/leetcode_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny7135/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sunny7135/leetcode_practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sunny7135/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/Sunny7135/leetcode_practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sunny7135/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sunny7135/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0134-gas-station](https://github.com/Sunny7135/leetcode_practice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny7135/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3714-longest-balanced-substring-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny7135/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0134-gas-station](https://github.com/Sunny7135/leetcode_practice/tree/master/0134-gas-station) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sunny7135/leetcode_practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sunny7135/leetcode_practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sunny7135/leetcode_practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 <!---LeetCode Topics End-->
