@@ -22,7 +22,7 @@ public:
             int mn = q.front().second;
             int first, last;
             for(int i=0; i<n; i++){
-                int curr = q.front().second - mn;
+                long long curr = q.front().second - mn;
                 TreeNode* node = q.front().first;
                 q.pop();
                 if(i==0)first = curr;
