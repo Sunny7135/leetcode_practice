@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0134-gas-station](https://github.com/Sunny7135/leetcode_practice/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny7135/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sunny7135/leetcode_practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
