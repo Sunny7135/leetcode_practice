@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sunny7135/leetcode_practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/Sunny7135/leetcode_practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
