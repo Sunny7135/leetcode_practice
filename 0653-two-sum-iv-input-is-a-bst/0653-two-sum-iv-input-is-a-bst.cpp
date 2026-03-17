@@ -12,7 +12,7 @@
 class Solution {
 public:
     void inorder(TreeNode* root, vector<int>&vec){
-        if(root==NULL)return;
+        if(root == NULL)return;
         inorder(root->left, vec);
         vec.push_back(root->val);
         inorder(root->right, vec);
@@ -20,12 +20,12 @@ public:
     bool findTarget(TreeNode* root, int k) {
         vector<int>vec;
         inorder(root, vec);
-        int i=0, n=vec.size()-1;
-        while(i<n){
-            int sum = vec[i] + vec[n];
+        int j = vec.size()-1, i=0;
+        while(i<j){
+            int sum = vec[i] + vec[j];
             if(sum == k)return true;
-            else if(sum < k) i++;
-            else n--;
+            else if(sum < k)i++;
+            else j--;
         }
         return false;
     }
