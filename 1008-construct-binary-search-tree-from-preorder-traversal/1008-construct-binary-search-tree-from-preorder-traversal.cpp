@@ -13,13 +13,14 @@ class Solution {
 public:
     int i=0;
     TreeNode* check(int min, int max, vector<int>& preorder){
-        if(i>=preorder.size())return NULL;
+        if(i >= preorder.size())return NULL;
         int val = preorder[i];
-        if(val <min || val > max)return NULL;
+        if(val < min || val > max)return NULL;
         i++;
         TreeNode* root = new TreeNode(val);
         root->left = check(min, val, preorder);
         root->right = check(val, max, preorder);
+
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
