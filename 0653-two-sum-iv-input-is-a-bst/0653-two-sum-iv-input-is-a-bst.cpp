@@ -12,20 +12,26 @@
 class Solution {
 public:
     void inorder(TreeNode* root, vector<int>&vec){
-        if(root == NULL)return;
+        if(!root)return;
         inorder(root->left, vec);
         vec.push_back(root->val);
         inorder(root->right, vec);
+
     }
     bool findTarget(TreeNode* root, int k) {
         vector<int>vec;
         inorder(root, vec);
-        int j = vec.size()-1, i=0;
-        while(i<j){
-            int sum = vec[i] + vec[j];
-            if(sum == k)return true;
-            else if(sum < k)i++;
-            else j--;
+        int n = vec.size()-1, i=0;
+        int sum =0;
+        while(i<n){
+            sum = vec[i] + vec[n];
+            if(sum == k){
+                return true;
+            }else if(sum < k){
+                i++;
+            }else {
+                n--;
+            }    
         }
         return false;
     }
