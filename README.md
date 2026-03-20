@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sunny7135/leetcode_practice/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sunny7135/leetcode_practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sunny7135/leetcode_practice/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sunny7135/leetcode_practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sunny7135/leetcode_practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
