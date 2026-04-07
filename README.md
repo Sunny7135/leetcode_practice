@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Sunny7135/leetcode_practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sunny7135/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [2069-walking-robot-simulation-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sunny7135/leetcode_practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sunny7135/leetcode_practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sunny7135/leetcode_practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sunny7135/leetcode_practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2751-robot-collisions](https://github.com/Sunny7135/leetcode_practice/tree/main/2751-robot-collisions/) | Hard |
