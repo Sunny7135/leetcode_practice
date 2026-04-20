@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sunny7135/leetcode_practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sunny7135/leetcode_practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sunny7135/leetcode_practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0134-gas-station](https://github.com/Sunny7135/leetcode_practice/tree/master/0134-gas-station) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sunny7135/leetcode_practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny7135/leetcode_practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
