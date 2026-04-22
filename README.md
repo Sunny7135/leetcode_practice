@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sunny7135/leetcode_practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sunny7135/leetcode_practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sunny7135/leetcode_practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Sunny7135/leetcode_practice/tree/main/2751-robot-collisions/) | Hard |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sunny7135/leetcode_practice/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sunny7135/leetcode_practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sunny7135/leetcode_practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sunny7135/leetcode_practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sunny7135/leetcode_practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sunny7135/leetcode_practice/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sunny7135/leetcode_practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Sunny7135/leetcode_practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
