@@ -1,15 +1,15 @@
 class Solution {
 public:
     vector<int>generating(int row){
-        long long ans =1;
-        vector<int>ansr;
-        ansr.push_back(1);
-        for(int i = 1; i<row; i++){
+        long long ans=1;
+        vector<int>anss;
+        anss.push_back(1);
+        for(int i=1; i<row; i++){
             ans = ans*(row-i);
             ans = ans/i;
-            ansr.push_back(ans);
+            anss.push_back(ans);
         }
-        return ansr;
+        return anss;
     }
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>>ans;
@@ -17,5 +17,6 @@ public:
             ans.push_back(generating(i));
         }
         return ans;
+       
     }
 };
