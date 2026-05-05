@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sunny7135/leetcode_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Stack
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sunny7135/leetcode_practice/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Sunny7135/leetcode_practice/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
