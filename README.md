@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sunny7135/leetcode_practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sunny7135/leetcode_practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sunny7135/leetcode_practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sunny7135/leetcode_practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/Sunny7135/leetcode_practice/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/Sunny7135/leetcode_practice/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sunny7135/leetcode_practice/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sunny7135/leetcode_practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sunny7135/leetcode_practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Sunny7135/leetcode_practice/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sunny7135/leetcode_practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
