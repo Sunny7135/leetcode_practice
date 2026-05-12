@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sunny7135/leetcode_practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sunny7135/leetcode_practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Sunny7135/leetcode_practice/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Sunny7135/leetcode_practice/tree/main/0860-lemonade-change/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sunny7135/leetcode_practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sunny7135/leetcode_practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
