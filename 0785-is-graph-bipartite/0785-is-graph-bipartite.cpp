@@ -1,21 +1,18 @@
 class Solution {
 public:
-    bool dfs(int start, vector<vector<int>>&graph, vector<int>&color){
+    bool dfs(int start, vector<int>&color, vector<vector<int>>&graph){
         color[start] = 0;
         queue<int>q;
         q.push(start);
-
+        
         while(!q.empty()){
             int node = q.front();
             q.pop();
-            for(auto it : graph[node]){
+            for(auto it: graph[node]){
                 if(color[it] == -1){
                     color[it] = 1 - color[node];
                     q.push(it);
-                }
-                else if(color[it] == color[node]){
-                    return false;
-                }
+                }else if (color[it] == color[node])return false;
             }
         }
         return true;
@@ -25,7 +22,7 @@ public:
         vector<int>color(n, -1);
         for(int i=0; i<n; i++){
             if(color[i] == -1){
-                if(!dfs(i, graph, color))return false;
+                if(!dfs(i, color, graph))return false;
             }
         }
         return true;
