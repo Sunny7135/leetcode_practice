@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sunny7135/leetcode_practice/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Sunny7135/leetcode_practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sunny7135/leetcode_practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/0788-rotated-digits/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sunny7135/leetcode_practice/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sunny7135/leetcode_practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sunny7135/leetcode_practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/Sunny7135/leetcode_practice/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sunny7135/leetcode_practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sunny7135/leetcode_practice/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sunny7135/leetcode_practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sunny7135/leetcode_practice/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sunny7135/leetcode_practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Sunny7135/leetcode_practice/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sunny7135/leetcode_practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sunny7135/leetcode_practice/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sunny7135/leetcode_practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sunny7135/leetcode_practice/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sunny7135/leetcode_practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Backtracking
