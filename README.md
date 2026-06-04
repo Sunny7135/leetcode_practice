@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sunny7135/leetcode_practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sunny7135/leetcode_practice/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sunny7135/leetcode_practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sunny7135/leetcode_practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sunny7135/leetcode_practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/Sunny7135/leetcode_practice/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
