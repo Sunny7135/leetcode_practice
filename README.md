@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Sunny7135/leetcode_practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sunny7135/leetcode_practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sunny7135/leetcode_practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sunny7135/leetcode_practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Sunny7135/leetcode_practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Sunny7135/leetcode_practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sunny7135/leetcode_practice/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sunny7135/leetcode_practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sunny7135/leetcode_practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/Sunny7135/leetcode_practice/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sunny7135/leetcode_practice/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sunny7135/leetcode_practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sunny7135/leetcode_practice/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sunny7135/leetcode_practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sunny7135/leetcode_practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sunny7135/leetcode_practice/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
