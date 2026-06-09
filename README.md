@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/Sunny7135/leetcode_practice/tree/main/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny7135/leetcode_practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
