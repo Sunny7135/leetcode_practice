@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sunny7135/leetcode_practice/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Sunny7135/leetcode_practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/Sunny7135/leetcode_practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sunny7135/leetcode_practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sunny7135/leetcode_practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sunny7135/leetcode_practice/tree/main/0127-word-ladder/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/Sunny7135/leetcode_practice/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Sunny7135/leetcode_practice/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Sunny7135/leetcode_practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sunny7135/leetcode_practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sunny7135/leetcode_practice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sunny7135/leetcode_practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0229-majority-element-ii/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Sunny7135/leetcode_practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Sunny7135/leetcode_practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
