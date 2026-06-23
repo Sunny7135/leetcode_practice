@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Sunny7135/leetcode_practice/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny7135/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Sunny7135/leetcode_practice/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Sunny7135/leetcode_practice/tree/main/0263-ugly-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sunny7135/leetcode_practice/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/0788-rotated-digits/) | Medium |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Sunny7135/leetcode_practice/tree/main/0231-power-of-two/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sunny7135/leetcode_practice/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sunny7135/leetcode_practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0231-power-of-two](https://github.com/Sunny7135/leetcode_practice/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Sunny7135/leetcode_practice/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sunny7135/leetcode_practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sunny7135/leetcode_practice/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
