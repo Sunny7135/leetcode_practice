@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sunny7135/leetcode_practice/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sunny7135/leetcode_practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3714-longest-balanced-substring-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sunny7135/leetcode_practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/Sunny7135/leetcode_practice/tree/main/3660-jump-game-ix/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
