@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sunny7135/leetcode_practice/tree/main/0396-rotate-function/) | Medium |
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
 | [0542-01-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/0542-01-matrix/) | Medium |
+| [0724-find-pivot-index](https://github.com/Sunny7135/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0860-lemonade-change](https://github.com/Sunny7135/leetcode_practice/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sunny7135/leetcode_practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sunny7135/leetcode_practice/tree/main/0994-rotting-oranges/) | Medium |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/Sunny7135/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sunny7135/leetcode_practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sunny7135/leetcode_practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Sunny7135/leetcode_practice/tree/main/1871-jump-game-vii/) | Medium |
