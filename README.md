@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Sunny7135/leetcode_practice/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sunny7135/leetcode_practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sunny7135/leetcode_practice/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sunny7135/leetcode_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sunny7135/leetcode_practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/Sunny7135/leetcode_practice/tree/main/1306-jump-game-iii/) | Medium |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Sunny7135/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Sunny7135/leetcode_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sunny7135/leetcode_practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sunny7135/leetcode_practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sunny7135/leetcode_practice/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sunny7135/leetcode_practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Sunny7135/leetcode_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1871-jump-game-vii](https://github.com/Sunny7135/leetcode_practice/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sunny7135/leetcode_practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sunny7135/leetcode_practice/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunny7135/leetcode_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sunny7135/leetcode_practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Sunny7135/leetcode_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sunny7135/leetcode_practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3161-block-placement-queries](https://github.com/Sunny7135/leetcode_practice/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
