@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sunny7135/leetcode_practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0207-course-schedule](https://github.com/Sunny7135/leetcode_practice/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sunny7135/leetcode_practice/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Sunny7135/leetcode_practice/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/Sunny7135/leetcode_practice/tree/main/0130-surrounded-regions/) | Medium |
+| [0207-course-schedule](https://github.com/Sunny7135/leetcode_practice/tree/main/0207-course-schedule/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Sunny7135/leetcode_practice/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0542-01-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sunny7135/leetcode_practice/tree/main/0547-number-of-provinces/) | Medium |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Sunny7135/leetcode_practice/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Sunny7135/leetcode_practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Sunny7135/leetcode_practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny7135/leetcode_practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -610,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Sunny7135/leetcode_practice/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
