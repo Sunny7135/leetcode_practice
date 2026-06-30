@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sunny7135/leetcode_practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/Sunny7135/leetcode_practice/tree/main/0127-word-ladder/) | Hard |
+| [0142-linked-list-cycle-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sunny7135/leetcode_practice/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunny7135/leetcode_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
