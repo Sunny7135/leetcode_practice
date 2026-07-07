@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Sunny7135/leetcode_practice/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Sunny7135/leetcode_practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sunny7135/leetcode_practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sunny7135/leetcode_practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
