@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sunny7135/leetcode_practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3713-longest-balanced-substring-i](https://github.com/Sunny7135/leetcode_practice/tree/master/3713-longest-balanced-substring-i) |
