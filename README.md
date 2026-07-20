@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sunny7135/leetcode_practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Sunny7135/leetcode_practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0278-first-bad-version](https://github.com/Sunny7135/leetcode_practice/tree/main/0278-first-bad-version/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunny7135/leetcode_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sunny7135/leetcode_practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -694,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Sunny7135/leetcode_practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Sunny7135/leetcode_practice/tree/main/0595-big-countries/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sunny7135/leetcode_practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Sunny7135/leetcode_practice/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
