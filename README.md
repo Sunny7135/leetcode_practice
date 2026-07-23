@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0707-design-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Sunny7135/leetcode_practice/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sunny7135/leetcode_practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sunny7135/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1472-design-browser-history](https://github.com/Sunny7135/leetcode_practice/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Sunny7135/leetcode_practice/tree/main/2751-robot-collisions/) | Hard |
 ## Design
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sunny7135/leetcode_practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sunny7135/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0707-design-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Sunny7135/leetcode_practice/tree/main/1472-design-browser-history/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Sunny7135/leetcode_practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sunny7135/leetcode_practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1472-design-browser-history](https://github.com/Sunny7135/leetcode_practice/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Sunny7135/leetcode_practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -717,4 +721,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Sunny7135/leetcode_practice/tree/main/0278-first-bad-version/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Sunny7135/leetcode_practice/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Sunny7135/leetcode_practice/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
