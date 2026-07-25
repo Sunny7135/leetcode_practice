@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sunny7135/leetcode_practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sunny7135/leetcode_practice/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sunny7135/leetcode_practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sunny7135/leetcode_practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sunny7135/leetcode_practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sunny7135/leetcode_practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
