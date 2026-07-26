@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunny7135/leetcode_practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
 | [0542-01-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/0542-01-matrix/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sunny7135/leetcode_practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/Sunny7135/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/Sunny7135/leetcode_practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sunny7135/leetcode_practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sunny7135/leetcode_practice/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Sunny7135/leetcode_practice/tree/main/0263-ugly-number/) | Easy |
 | [0396-rotate-function](https://github.com/Sunny7135/leetcode_practice/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sunny7135/leetcode_practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sunny7135/leetcode_practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sunny7135/leetcode_practice/tree/main/1840-maximum-building-height/) | Hard |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sunny7135/leetcode_practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sunny7135/leetcode_practice/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sunny7135/leetcode_practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Sunny7135/leetcode_practice/tree/main/1340-jump-game-v/) | Hard |
