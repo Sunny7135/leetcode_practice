@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sunny7135/leetcode_practice/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sunny7135/leetcode_practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sunny7135/leetcode_practice/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/Sunny7135/leetcode_practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Sunny7135/leetcode_practice/tree/main/0207-course-schedule/) | Medium |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Sunny7135/leetcode_practice/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sunny7135/leetcode_practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
