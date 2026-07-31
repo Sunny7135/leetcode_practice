@@ -21,6 +21,7 @@ public:
         return check(root->left, sum) + check(root->right, sum);
     }
     int sumNumbers(TreeNode* root) {
-        return check(root, 0);
+        int ans =  check(root, 0);
+        return ans;
     }
 };
