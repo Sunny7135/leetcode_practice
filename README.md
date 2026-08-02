@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Sunny7135/leetcode_practice/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sunny7135/leetcode_practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Sunny7135/leetcode_practice/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Sunny7135/leetcode_practice/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sunny7135/leetcode_practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Sunny7135/leetcode_practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sunny7135/leetcode_practice/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sunny7135/leetcode_practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Sunny7135/leetcode_practice/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sunny7135/leetcode_practice/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sunny7135/leetcode_practice/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sunny7135/leetcode_practice/tree/main/0396-rotate-function/) | Medium |
 | [0542-01-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/0542-01-matrix/) | Medium |
 | [0788-rotated-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Sunny7135/leetcode_practice/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sunny7135/leetcode_practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sunny7135/leetcode_practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Sunny7135/leetcode_practice/tree/main/1340-jump-game-v/) | Hard |
@@ -787,4 +790,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Sunny7135/leetcode_practice/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
