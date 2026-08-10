@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sunny7135/leetcode_practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Sunny7135/leetcode_practice/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Sunny7135/leetcode_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sunny7135/leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sunny7135/leetcode_practice/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sunny7135/leetcode_practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sunny7135/leetcode_practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Sunny7135/leetcode_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Sunny7135/leetcode_practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Sunny7135/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sunny7135/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sunny7135/leetcode_practice/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Sunny7135/leetcode_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Sunny7135/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Sunny7135/leetcode_practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0396-rotate-function](https://github.com/Sunny7135/leetcode_practice/tree/main/0396-rotate-function/) | Medium |
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Sunny7135/leetcode_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Sunny7135/leetcode_practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sunny7135/leetcode_practice/tree/main/0739-daily-temperatures/) | Medium |
@@ -752,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sunny7135/leetcode_practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sunny7135/leetcode_practice/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Sunny7135/leetcode_practice/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Sunny7135/leetcode_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Sunny7135/leetcode_practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
