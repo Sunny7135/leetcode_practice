@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Sunny7135/leetcode_practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Sunny7135/leetcode_practice/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Sunny7135/leetcode_practice/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sunny7135/leetcode_practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1306-jump-game-iii](https://github.com/Sunny7135/leetcode_practice/tree/main/1306-jump-game-iii/) | Medium |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Sunny7135/leetcode_practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Sunny7135/leetcode_practice/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Sunny7135/leetcode_practice/tree/main/0841-keys-and-rooms/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sunny7135/leetcode_practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sunny7135/leetcode_practice/tree/main/1020-number-of-enclaves/) | Medium |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sunny7135/leetcode_practice/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Sunny7135/leetcode_practice/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Sunny7135/leetcode_practice/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Sunny7135/leetcode_practice/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sunny7135/leetcode_practice/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sunny7135/leetcode_practice/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Sunny7135/leetcode_practice/tree/main/2685-count-the-number-of-complete-components/) | Medium |
