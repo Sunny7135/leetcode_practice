@@ -1,24 +1,22 @@
 class Solution {
 public:
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<int>vis(n, 0);
         vector<vector<int>>adj(n);
-        
+        vector<int>vis(n,0);
+        queue<int>q;
+
         for(auto &it : edges){
             int u = it[0];
             int v = it[1];
-
             adj[u].push_back(v);
             adj[v].push_back(u);
         }
 
-        queue<int>q;
         vis[source] = 1;
         q.push(source);
         while(!q.empty()){
             int node = q.front();
             q.pop();
-
 
             if(node == destination)return true;
 
