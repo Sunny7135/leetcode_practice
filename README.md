@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sunny7135/leetcode_practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Sunny7135/leetcode_practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sunny7135/leetcode_practice/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Sunny7135/leetcode_practice/tree/main/0771-jewels-and-stones/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sunny7135/leetcode_practice/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Sunny7135/leetcode_practice/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Sunny7135/leetcode_practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sunny7135/leetcode_practice/tree/main/0344-reverse-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Sunny7135/leetcode_practice/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Sunny7135/leetcode_practice/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Sunny7135/leetcode_practice/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Sunny7135/leetcode_practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sunny7135/leetcode_practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
