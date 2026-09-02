@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool check(vector<int>&ans, int days, int m, int k){
+    bool check(vector<int>ans, int days, int m, int k){
         int cnt=0, num =0;
         for(int i:ans){
             if(i <= days){
