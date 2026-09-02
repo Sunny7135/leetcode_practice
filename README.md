@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sunny7135/leetcode_practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Sunny7135/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sunny7135/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Sunny7135/leetcode_practice/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Sunny7135/leetcode_practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sunny7135/leetcode_practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sunny7135/leetcode_practice/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Sunny7135/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Sunny7135/leetcode_practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Sunny7135/leetcode_practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Sunny7135/leetcode_practice/tree/main/0169-majority-element/) | Easy |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Sunny7135/leetcode_practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
