@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sunny7135/leetcode_practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sunny7135/leetcode_practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sunny7135/leetcode_practice/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sunny7135/leetcode_practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sunny7135/leetcode_practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sunny7135/leetcode_practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sunny7135/leetcode_practice/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sunny7135/leetcode_practice/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sunny7135/leetcode_practice/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Sunny7135/leetcode_practice/tree/main/0022-generate-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sunny7135/leetcode_practice/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -923,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sunny7135/leetcode_practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sunny7135/leetcode_practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sunny7135/leetcode_practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Database
 | Problem Name | Difficulty |
