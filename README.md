@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sunny7135/leetcode_practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3870-count-commas-in-range](https://github.com/Sunny7135/leetcode_practice/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
