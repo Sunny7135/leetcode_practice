@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sunny7135/leetcode_practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Sunny7135/leetcode_practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sunny7135/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Sunny7135/leetcode_practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sunny7135/leetcode_practice/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Sunny7135/leetcode_practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Sunny7135/leetcode_practice/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Sunny7135/leetcode_practice/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/Sunny7135/leetcode_practice/tree/main/0455-assign-cookies/) | Easy |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sunny7135/leetcode_practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Sunny7135/leetcode_practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Sunny7135/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Sunny7135/leetcode_practice/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Sunny7135/leetcode_practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Sunny7135/leetcode_practice/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Sunny7135/leetcode_practice/tree/main/0118-pascals-triangle/) | Easy |
