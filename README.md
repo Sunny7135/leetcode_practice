@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sunny7135/leetcode_practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Sunny7135/leetcode_practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sunny7135/leetcode_practice/tree/main/0739-daily-temperatures/) | Medium |
+| [0835-image-overlap](https://github.com/Sunny7135/leetcode_practice/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sunny7135/leetcode_practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Sunny7135/leetcode_practice/tree/main/0860-lemonade-change/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Sunny7135/leetcode_practice/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Sunny7135/leetcode_practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/Sunny7135/leetcode_practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/0542-01-matrix/) | Medium |
+| [0835-image-overlap](https://github.com/Sunny7135/leetcode_practice/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/Sunny7135/leetcode_practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Sunny7135/leetcode_practice/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sunny7135/leetcode_practice/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
