@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Sunny7135/leetcode_practice/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Sunny7135/leetcode_practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sunny7135/leetcode_practice/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sunny7135/leetcode_practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Sunny7135/leetcode_practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sunny7135/leetcode_practice/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sunny7135/leetcode_practice/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sunny7135/leetcode_practice/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/Sunny7135/leetcode_practice/tree/main/3660-jump-game-ix/) | Medium |
