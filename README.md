@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sunny7135/leetcode_practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sunny7135/leetcode_practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sunny7135/leetcode_practice/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sunny7135/leetcode_practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sunny7135/leetcode_practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sunny7135/leetcode_practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/Sunny7135/leetcode_practice/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Sunny7135/leetcode_practice/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sunny7135/leetcode_practice/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sunny7135/leetcode_practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sunny7135/leetcode_practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/Sunny7135/leetcode_practice/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Sunny7135/leetcode_practice/tree/main/2029-stone-game-ix/) | Medium |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sunny7135/leetcode_practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sunny7135/leetcode_practice/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1871-jump-game-vii](https://github.com/Sunny7135/leetcode_practice/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sunny7135/leetcode_practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sunny7135/leetcode_practice/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sunny7135/leetcode_practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Sunny7135/leetcode_practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sunny7135/leetcode_practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sunny7135/leetcode_practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sunny7135/leetcode_practice/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -881,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sunny7135/leetcode_practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sunny7135/leetcode_practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sunny7135/leetcode_practice/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sunny7135/leetcode_practice/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sunny7135/leetcode_practice/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sunny7135/leetcode_practice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sunny7135/leetcode_practice/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
