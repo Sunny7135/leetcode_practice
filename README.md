@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sunny7135/leetcode_practice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Sunny7135/leetcode_practice/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/Sunny7135/leetcode_practice/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Sunny7135/leetcode_practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sunny7135/leetcode_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Sunny7135/leetcode_practice/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Sunny7135/leetcode_practice/tree/main/0263-ugly-number/) | Easy |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Sunny7135/leetcode_practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Sunny7135/leetcode_practice/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Sunny7135/leetcode_practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Sunny7135/leetcode_practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Sunny7135/leetcode_practice/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Sunny7135/leetcode_practice/tree/main/0118-pascals-triangle/) | Easy |
@@ -1121,4 +1123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Sunny7135/leetcode_practice/tree/main/0075-sort-colors/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sunny7135/leetcode_practice/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
