@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sunny7135/leetcode_practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sunny7135/leetcode_practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sunny7135/leetcode_practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sunny7135/leetcode_practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Sunny7135/leetcode_practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sunny7135/leetcode_practice/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sunny7135/leetcode_practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sunny7135/leetcode_practice/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sunny7135/leetcode_practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sunny7135/leetcode_practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sunny7135/leetcode_practice/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Sunny7135/leetcode_practice/tree/main/3731-find-missing-elements/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
