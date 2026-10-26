@@ -5,7 +5,7 @@ class Solution {
         for(int i=0; i<nums.length; i++){
             if(nums[i]> nums[(i+1)%n])cnt++;
         }
-        if(cnt <=1)return true;
-        else return false;
+        return cnt <=1;
+        
     }
 }
